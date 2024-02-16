@@ -1,0 +1,13 @@
+{
+  "name": "barebones-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot written in Discord.js v14 broken down to the bare bones.",
+  "main": "index.js",
+  "dependencies": {
+    "@discordjs/voice": "^0.16.1",
+    "discord.js": "^14.14.1",
+    "express": "^4.18.2",
+    "ms": "^2.1.3",
+    "set-interval-async": "^3.0.3"
+  }
+}
